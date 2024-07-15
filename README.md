@@ -3,3 +3,5 @@
 Para Ejecutar el sistema debes de poner:
 
 ´´´´npm install react ´´´
+
+SISTEMA DE REGISTRO 2 ACTUALIZO READMME
